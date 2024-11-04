@@ -1,27 +1,28 @@
-# News Application
-This project is a dynamic webpage that provides up-to-date global news using the News API. It features three specialized news sections: IPL, Finances, and Politics. Users can easily navigate through these categories or use the search bar to find news on specific topics of their choice. Built with HTML, CSS, and JavaScript, this project showcases how to integrate news data into a user-friendly interface.
+# News Web Application 📰
+This project is a dynamic webpage that provides up-to-date global news using the News API. It features three specialized news sections: IPL, Finances, and Politics. Users can easily navigate through these categories or use the search bar to find news on specific topics of their choice. Built with HTML, CSS, and JavaScript, this project showcases how to integrate news data into a user-friendly interface. 🌟
 
 
+## Technologies Used ⚙️
 
-## Screenshots
-![img1](https://github.com/user-attachments/assets/5a0f31a1-28df-4f8c-802d-8a9bc0978843)
+- **Frontend**: 
+  - HTML 🖊
+  - CSS 🎨
+  - JavaScript ⚒
+- **Tools**:
+  - Vs Code for coding 💻
 
-![img2](https://github.com/user-attachments/assets/979bebc5-816f-48a3-819a-34fb2d66f297)
+## Contact 📫
 
-![img3](https://github.com/user-attachments/assets/107903e1-10af-4829-a00e-83df7cd0dc14)
+Feel free to reach out to me:
 
+- Email: prathamsingh19102003@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/prathamsingh19102003](https://www.linkedin.com/in/prathamsingh19102003)
+- GitHub: [https://github.com/prathamsingh19](https://github.com/prathamsingh19)
+- Instagram: [https://www.instagram.com/prathamsingh.__/](https://www.instagram.com/prathamsingh.__/)
 
+---
 
-## Technologies Used
-
-This project is created by using following
-technologies:
-
-- Visual Studio Code
-- HTML
-- CSS
-- JavaScript
+Thank you 👋
 
 
-## THANK YOU
 
